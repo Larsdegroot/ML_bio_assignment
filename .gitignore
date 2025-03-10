@@ -2,4 +2,5 @@
 /venv
 
 # Jupyter
-
+.jupyter
+.ipynb_checkpoints
